@@ -1,0 +1,35 @@
+                                              TIME COMPLEXITY ANALYSIS
+Task0:
+
+As the statements/line of codes are simple and not involving any branching or loop so it will take constant time for execution. Let the constant time be 1
+
+Time complexity=O(1)
+
+
+Task1:
+
+The time taken by the for loop will depend o the number of inputs, so let there are n number of inputs for each for loop,this gives the time complexity as O(n).And also that the time complexity of conversion of a list to a set also takes time O(n) (since if the list has n elements so iterating over the list will take O(n) time and adding the element to the hash table will take constant time ie O(1)).
+
+Time complexity=O(n) 
+
+
+Task2:
+
+The time taken by the for loop will depend o the number of inputs, so let there are n number of inputs for each for loop (because the time taken by the if condition is O(1) ). Since there is nesting of for loop ( for the evaluation of the unique_list that stores unique numbers) so the time complexity of each for loop will be multiplied.
+
+Time complexity=O(n^2) 
+
+
+Task3:
+
+The time taken by the for loop will depend o the number of inputs, so let there are n number of inputs for each for loop (because the time taken by the if ondition is O(1) ). Since there is nesting of for loop ( for the evaluation of the unique_list that stores unique numbers) so the time complexity of each for loop will be multiplied.
+
+Time complexity=O(n^2) 
+
+
+Task4:
+
+The time taken by the for loop will depend o the number of inputs, so let there are n number of inputs for each for loop (because the time taken by the if ondition is O(1) ). Since there is nesting of for loop ( for the evaluation of the unique_list that stores unique numbers) so the time complexity of each for loop will be multiplied.
+
+Time complexity=O(n^2) 
+
